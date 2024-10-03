@@ -73,7 +73,7 @@ const About = () => {
     },
     {
       image: findlay,
-      title: 'Northwest Missouri State University',
+      title: ' Missouri State University',
       description:
         'Academic Programs: MS Applied Computer Science, MS Applied Health & Sports Science, MS Biology, MS Data Analytics, MS Information Systems, MBA (Accounting, Agriculture Economics, Business Analytics, Finance, GIS, Healthcare Management, and Marketing).',
     },
