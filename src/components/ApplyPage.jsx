@@ -34,6 +34,7 @@ const ApplyPage = () => {
 
       const response = await fetch('https://backend-ancons-nodejs-1.onrender.com/users/register', {
 
+
         method: 'POST',
         body: formDataToSend,
       });
