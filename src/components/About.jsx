@@ -8,7 +8,6 @@ import fairleigh from '../../public/fairleigh.webp';
 import findlay from '../../public/findlay.webp';
 import michigan from '../../public/michigan.webp';
 import newhaven from '../../public/newhaven.webp';
-import Northwest from '../../public/Northwest.webp';
 import Nova from '../../public/Nova.webp';
 import texas from '../../public/texas.webp';
 import William from '../../public/William.webp';
@@ -73,7 +72,7 @@ const About = () => {
         'Academic Programs: Applied Security & Analytics, Business Administration, Education, Environmental, Safety & Health, Health Informatics Occupational Therapy, Professional Communication, Physician Assistant, Radiologic Sciences, Rhetoric & Writing and TESOL.',
     },
     {
-      image: Northwest,
+      image: findlay,
       title: 'Northwest Missouri State University',
       description:
         'Academic Programs: MS Applied Computer Science, MS Applied Health & Sports Science, MS Biology, MS Data Analytics, MS Information Systems, MBA (Accounting, Agriculture Economics, Business Analytics, Finance, GIS, Healthcare Management, and Marketing).',
