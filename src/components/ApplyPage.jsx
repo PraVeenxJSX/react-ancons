@@ -31,7 +31,7 @@ const ApplyPage = () => {
     Object.keys(formData).forEach(key => formDataToSend.append(key, formData[key]));
   
     try {
-      const response = await fetch('http://localhost:5000/api/users/register', {
+      const response = await fetch('https://backend-ancons-nodejs-1.onrender.com/api/users/register', {
         method: 'POST',
         body: formDataToSend,
       });
