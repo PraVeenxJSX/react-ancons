@@ -12,6 +12,7 @@ import Nova from '../../public/Nova.webp';
 import texas from '../../public/texas.webp';
 import William from '../../public/William.webp';
 import wichita from '../../public/wichita.webp';
+import Northwest from '../../public/Northwest.webp';
 import Map from './Map';
 
 const About = () => {
