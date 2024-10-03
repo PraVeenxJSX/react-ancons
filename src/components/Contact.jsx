@@ -18,11 +18,10 @@ const Contact = () => {
     e.preventDefault();
 
     try {
-<<<<<<< HEAD
+
       const response = await fetch('https://backend-ancons-nodejs-1.onrender.com/users/contact', {
-=======
-      const response = await fetch('https://backend-ancons-nodejs-1.onrender.com/api/users/contact', {
->>>>>>> bdf3a9a32389eb52addbdc24b4c2f6d54251efa6
+
+     
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
